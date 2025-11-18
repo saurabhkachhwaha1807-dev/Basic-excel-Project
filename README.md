@@ -32,3 +32,10 @@ To clean a multi-sheet sports dataset, standardize player information, and gener
 * Conditional Formatting (Top 10, Color Scales, Icons)
 * Data Validation lists
 * Sorting and filtering for analysis
+
+**Takeaways**
+
+* France has the highest number of players
+* Performance distribution across categories
+* Relationships between players, sports, and locations
+* Cleaned, structured data ready for reporting or dashboarding
